@@ -18,30 +18,30 @@ Publications
 ======
 End-To-End Depth Map Compression Framework Via Rgb-To-Depth Structure Priors Learning <br>
 Minghui Chen, **Pingping Zhang**, Zhuo Chen, Yun Zhang, Xu Wang, Sam Kwong <br>
-IEEE International Conference on Image Processing (ICIP 2022)<br>
+IEEE International Conference on Image Processing (ICIP 2022) 
 [paper](https://ppingzhang.github.io/files/ICIP2022.pdf) 
 
 
 Learning-based Compression for Noisy Images in the Wild<br>
 **Pingping Zhang**, Meng Wang, Baoliang Chen, Rongqun Lin, Xu Wang, Shiqi Wang and Sam Kwong <br>
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2022) <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2022) 
 [paper](https://ppingzhang.github.io/files/NIC.pdf) [code](https://github.com/ppingzhang/NoisyIC)
 
 URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement<br>
 Wenhui Wu, Jian Weng, **Pingping Zhang**, Xu Wang, Wenhan Yang, Jianmin Jiang<br>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)<br> 
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022) 
 [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_URetinex-Net_Retinex-Based_Deep_Unfolding_Network_for_Low-Light_Image_Enhancement_CVPR_2022_paper.pdf) [Code](https://github.com/AndersonYong/URetinex-Net)<br>
 
 Progressive Point Cloud Upsampling via Differentiable Rendering <br>
 **Pingping Zhang**, Xu Wang, Lin Ma, Shiqi Wang, Sam Kwong, Jianmin Jiang<br>
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2021) <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2021)
 [Paper](https://ppingzhang.github.io/files/PU.pdf) [Code](https://github.com/ppingzhang/PPU)<br>
 
 
 Deep intensity guidance based compression artifacts reduction for depth map <br>
 Xu Wang, **Pingping Zhang**, Yun Zhang, Lin Ma, Sam Kwong, Jianmin Jiang<br>
-Journal of Visual Communication and Image Representation (JVCIR 2018)  <br>
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320318302827)[Code](https://github.com/ppingyes/DIG-Net)<br>
+Journal of Visual Communication and Image Representation (JVCIR 2018)  
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320318302827) [Code](https://github.com/ppingyes/DIG-Net)<br>
 
 
 Compression artifacts reduction for depth map by deep intensity guidance<br>
