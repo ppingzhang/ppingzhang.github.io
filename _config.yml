@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pingping Zhang"
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student"
   location         : "Shenzhen/HK"
   employer         :
@@ -196,7 +196,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -207,14 +207,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -232,17 +232,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
-  #- scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: true
 
 # Sass/SCSS
 sass:
