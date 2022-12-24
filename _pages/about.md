@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pingping Zhang (张乒乒)"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
