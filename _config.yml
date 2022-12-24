@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pingping Zhang"
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   bio              : "PhD student"
   location         : "Shenzhen/HK"
   employer         :
