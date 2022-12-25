@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+icon                     : "icon.png" 
 locale                   : "en-US"
 title                    : "Pingping Zhang"
 title_separator          : "-"
