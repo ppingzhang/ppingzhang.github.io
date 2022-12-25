@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+title                    : "Pingping Zhang"
+title_separator          : "Pingping Zhang"
 name                     : &name "Pingping Zhang"
 description              : &description "Pingping Zhang's homepage"
 url                      : https://ppingzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
