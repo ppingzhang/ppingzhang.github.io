@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I’m now a PhD candidate (since 2021 fall) in City University of Hong Kong under the supervision of prof. [KWONG Tak Wu Sam](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=sra) and prof. [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN&oi=ao), with the research interests in deep image and video compression. 
+I’m now a PhD candidate (since 2021 fall) in the department of Computer Science, City University of Hong Kong under the supervision of prof. [KWONG Tak Wu Sam](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=sra) and prof. [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN&oi=ao), with the research interests in deep image and video compression. 
 
 
 
