@@ -16,6 +16,11 @@ I’m now a PhD candidate (since 2021 fall) in the department of Computer Scienc
 
 Publications
 ======
+Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer <br>
+**Pingping Zhang**, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)
+[paper]() [code](https://github.com/ppingzhang/SCMC)
+
 End-To-End Depth Map Compression Framework Via Rgb-To-Depth Structure Priors Learning <br>
 Minghui Chen, **Pingping Zhang**, Zhuo Chen, Yun Zhang, Xu Wang, Sam Kwong <br>
 IEEE International Conference on Image Processing (ICIP 2022) 
