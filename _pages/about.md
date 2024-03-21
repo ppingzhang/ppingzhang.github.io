@@ -10,12 +10,40 @@ redirect_from:
 
 About me
 ======
-I’m now a PhD candidate (since 2021 fall) in the department of Computer Science, City University of Hong Kong under the supervision of prof. [KWONG Tak Wu Sam](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=sra) and prof. [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN&oi=ao), with the research interests in deep image and video compression. 
+I’m now a PhD candidate (since 2021 fall) in the department of Computer Science, City University of Hong Kong under the supervision of prof. [KWONG Tak Wu Sam](https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=sra) and prof. [Shiqi Wang](https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN&oi=ao), with the research interests in deep image, video and point cloud compression. 
 
 
 
 Publications
 ======
+
+Geometric Prior Based Deep Human Point Cloud Geometry Compression.<br>
+Xinju Wu, **Pingping Zhang**, Meng Wang, Peilin Chen, Shiqi Wang, Sam Kwong. <br> 
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2024) [paper]()
+
+
+
+
+Multiple Hypotheses Based Motion Compensation for Learned Video Compression.<br>
+Rongqun Lin, Meng Wang, **Pingping Zhang**, Shiqi Wang, Sam Kwong.<br>
+Neurocomputing 2023 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231223005192)
+
+
+Lossy LiDAR Point Cloud Compression via Cylindrical 3D Convolution Networks.<br>
+Yelang Gao, **Pingping Zhang**, Xu Wang.<br>
+ICIP 2023 [paper](https://ieeexplore.ieee.org/abstract/document/10222471)
+
+Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding<br>
+Jiancong Chen, Meng Wang, **Pingping Zhang**, Shurun Wang, Shiqi Wang. <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)
+[paper](https://ieeexplore.ieee.org/abstract/document/10246313) 
+
+
+Sparse-to-Dense: High Efficiency Rate Control for End-to-end Scale-Adaptive Video Coding<br>
+Jiancong Chen, Meng Wang, **Pingping Zhang**, Shurun Wang, Shiqi Wang. <br>
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)
+[paper](https://ieeexplore.ieee.org/abstract/document/10246313) 
+
 Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer <br>
 **Pingping Zhang**, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong <br>
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023)
@@ -51,3 +79,36 @@ Journal of Visual Communication and Image Representation (JVCIR 2018) [paper](ht
 Compression artifacts reduction for depth map by deep intensity guidance<br>
 **Pingping Zhang**, Xu Wang, Yun Zhang, Lin Ma, Jianmin Jiang, Sam Kwong<br>
 Pacific Rim Conference on Multimedia (PCM 2017) <br>
+
+
+Services
+======
+
+**Journal Reviewer:**
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+IEEE Transactions on Multimedia (TMM)
+
+IEEE Transactions on Circuits and Systems for Video (TCSVT)
+
+**Conference Reviewer:**
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+
+ACM Multimedia (ACMMM 2023)
+
+
+Teaching
+======
+
+Teaching Assistant: Program in Python, City University of Hong Kong 
+
+Teaching Assistant: C++ Computer Programming, City University of Hong Kong 
+
+
+Awards
+======
+Outstanding academic performance award, City University of Hong Kong, 2023
+
+Research tuition scholarship, City University of Hong Kong, 2022, 2023
