@@ -11,10 +11,8 @@
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems </autocolor></li>
-  <li><autocolor>IEEE Transactions on Cybernetics</autocolor></li>
   <li><autocolor>IEEE Transactions on Multimedia</autocolor></li>
   <li><autocolor>IEEE Transactions on Circuits and Systems for Video Technology</autocolor></li>
-  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
   <li><autocolor>APSIPA Transactions on Signal and Information Processing</autocolor></li>
 </ul>
 
