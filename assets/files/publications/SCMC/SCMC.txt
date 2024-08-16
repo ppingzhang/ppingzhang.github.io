@@ -1,0 +1,10 @@
+@article{zhang2023rethinking,
+  title={Rethinking semantic image compression: Scalable representation with cross-modality transfer},
+  author={Zhang, Pingping and Wang, Shiqi and Wang, Meng and Li, Jiguo and Wang, Xu and Kwong, Sam},
+  journal={IEEE Transactions on circuits and systems for video technology},
+  volume={33},
+  number={8},
+  pages={4441--4445},
+  year={2023},
+  publisher={IEEE}
+}

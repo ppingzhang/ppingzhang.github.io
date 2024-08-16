@@ -1,0 +1,10 @@
+@article{zhang2021progressive,
+  title={Progressive point cloud upsampling via differentiable rendering},
+  author={Zhang, Pingping and Wang, Xu and Ma, Lin and Wang, Shiqi and Kwong, Sam and Jiang, Jianmin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={31},
+  number={12},
+  pages={4673--4685},
+  year={2021},
+  publisher={IEEE}
+}

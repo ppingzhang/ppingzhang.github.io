@@ -1,0 +1,7 @@
+@article{zhang2022learning,
+  title={Learning-based compression for noisy images in the wild},
+  author={Zhang, Pingping and Wang, Meng and Chen, Baoliang and Lin, Rongqun and Wang, Xu and Wang, Shiqi and Kwong, Sam},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}

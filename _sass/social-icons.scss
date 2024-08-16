@@ -1,0 +1,111 @@
+.social-icons a{
+    display:inline-block;  // Display the social icons as inline-block
+    height:2.4rem;  // Set the height of the social icons
+    width:2.4rem;  // Set the width of the social icons
+    background-color:transparent;  // Set the background color of the social icons to transparent
+    color:#043361!important;  // Set the color of the social icons
+    border-radius:100%;  // Set the border radius of the social icons to 100%
+    text-align:center;  // Align the text to the center of the social icons
+    font-size:1.15rem;  // Set the font size of the social icons
+    line-height:2.5rem;  // Set the line height of the social icons
+    margin-right:1rem  // Set the right margin of the social icons
+}
+
+.social-icons a:last-child{
+    margin-right:0  // Remove the right margin of the last social icon
+}
+  
+.social-icons a:hover{
+    background-color:white;  // Change the background color of the social icons when hovered
+    color:black; // Change the color of the social icons when hovered
+    transform: scale(1.2)
+}
+
+.icon-button{
+    background-color:white;
+    border-radius:3.6rem;
+    cursor:pointer;
+    display:inline-block;
+    font-size:2.0rem;
+    height:3.6rem;
+    line-height:3.6rem;
+    margin:0 5px;
+    position:relative;
+    text-align:center;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;width:3.6rem
+}
+
+.icon-button span{
+    border-radius:0;
+    display:block;
+    height:0;
+    left:50%;
+    margin:0;
+    position:absolute;
+    top:50%;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    -o-transition:all 0.3s;
+    transition:all 0.3s;
+    width:0
+}
+
+.icon-button:hover span{
+    width:3.6rem;
+    height:3.6rem;
+    border-radius:3.6rem;
+    margin:-1.8rem
+}
+
+.twitter span{
+    background-color:#4099ff
+}
+
+.facebook span{
+    background-color:#4286f4
+}
+
+.linkedin span{
+    background-color:#0077B5
+}
+
+.github span{
+    background-color:#000
+}
+
+.icon-button i{
+    background:none;
+    color:white;
+    height:3.6rem;
+    left:0;
+    line-height:3.6rem;
+    position:absolute;
+    top:0;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    -o-transition:all 0.3s;
+    transition:all 0.3s;
+    width:3.6rem;
+    z-index:10
+}
+
+.icon-button .icon-twitter{
+    color:#4099ff
+}
+
+.icon-button .icon-facebook{
+    color:#4286f4
+}
+
+.icon-button .icon-github{
+    color:#000
+}
+
+.icon-button .icon-linkedin{
+    color:#0077B5
+}
+
+.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}

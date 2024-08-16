@@ -1,0 +1,7 @@
+@inproceedings{wu2022uretinex,
+  title={Uretinex-net: Retinex-based deep unfolding network for low-light image enhancement},
+  author={Wu, Wenhui and Weng, Jian and Zhang, Pingping and Wang, Xu and Yang, Wenhan and Jiang, Jianmin},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={5901--5910},
+  year={2022}
+}

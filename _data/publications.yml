@@ -1,22 +1,64 @@
 main:
+  - title: "CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting"
+    authors: Xiangrui Liu, Xinju Wu, <strong>Pingping Zhang<strong>, Shiqi Wang*, Zhu Li, Sam Kwong
+    conference_short: ACM MM
+    conference: ACM Multimedia (ACM MM), 2024.
+    url: https://arxiv.org/abs/2404.09458
+    code: https://github.com/LiuXiangrui/CompGS
+    bibtex: ./assets/files/publications/comp_gs/bib_comp_gs.txt
+    image: ./assets/files/publications/comp_gs/comp_gs.jpg
+    suppl: https://github.com/LiuXiangrui/CompGS/blob/main/assets/Suppl.pdf
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "HNR-ISC: Hybrid Neural Representation for Image Set Compression"
+    authors: <strong>Pingping Zhang<strong>, Shiqi Wang, Meng Wang, Peilin Chen, Wenhui Wu, Xu Wang, Sam Kwong
+    conference_short: TMM
+    conference: IEEE Transactions on Multimedia, (TMM) 2024.
+    url: #https://arxiv.org/abs/2404.09458
+    bibtex: #./assets/files/publications/comp_gs/bib_comp_gs.txt
+    image: #./assets/files/publications/comp_gs/comp_gs.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  - title: "Geometric Prior Based Deep Human Point Cloud Geometry Compression"
+    authors: Xinju Wu, <strong>Pingping Zhang<strong>, Meng Wang, Peilin Chen, Shiqi Wang, Sam Kwong.
+    conference_short: TIP
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
+    url: https://arxiv.org/pdf/2305.01309
+    bibtex: ./assets/files/publications/cppcgc_net/cppcgc_net.txt
+    image: ./assets/files/publications/cppcgc_net/cppcgc_net.jpg
+
+  - title: "Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer"
+    authors: <strong>Pingping Zhang<strong>, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong
+    conference_short: T-CSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
+    url: ./assets/files/publications/SCMC/SCMC.pdf
+    code: https://github.com/ppingzhang/SCMC
+    bibtex: ./assets/files/publications/SCMC/SCMC.txt
+    image: ./assets/files/publications/SCMC/SCMC.png
+
+
+  - title: "URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement"
+    authors: Wenhui Wu, Jian Weng, <strong>Pingping Zhang<strong>, Xu Wang, Wenhan Yang, Jianmin Jiang
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    conference: IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2022.
+    url: ./assets/files/publications/URetinex-Net/URetinex-Net.pdf
+    code: https://github.com/AndersonYong/URetinex-Net
+    bibtex: ./assets/files/publications/URetinex-Net/URetinex-Net.txt
+    image: ./assets/files/publications/URetinex-Net/URetinex-Net.png
+
+  - title: "Learning-based Compression for Noisy Images in the Wild"
+    authors: <strong>Pingping Zhang<strong>, Meng Wang, Baoliang Chen, Rongqun Lin, Xu Wang, Shiqi Wang and Sam Kwong
+    conference_short: T-CSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2022.
+    url: ./assets/files/publications/NoisyIC/NoisyIC.pdf
+    code: https://github.com/ppingzhang/NoisyIC
+    bibtex: ./assets/files/publications/NoisyIC/NoisyIC.txt
+    image: ./assets/files/publications/NoisyIC/NoisyIC.png
+
+  - title: "Progressive Point Cloud Upsampling via Differentiable Rendering"
+    authors:  <strong>Pingping Zhang <strong>, Xu Wang, Lin Ma, Shiqi Wang, Sam Kwong, Jianmin Jiang
+    conference_short: T-CSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021.
+    url: ./assets/files/publications/SCMC/SCMC.pdf
+    code: https://github.com/ppingzhang/PPU
+    bibtex: ./assets/files/publications/SCMC/SCMC.txt
+    image: ./assets/files/publications/SCMC/SCMC.png
+  

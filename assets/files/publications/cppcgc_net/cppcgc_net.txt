@@ -1,0 +1,7 @@
+@article{wu2024geometric,
+  title={Geometric Prior Based Deep Human Point Cloud Geometry Compression},
+  author={Wu, Xinju and Zhang, Pingping and Wang, Meng and Chen, Peilin and Wang, Shiqi and Kwong, Sam},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
