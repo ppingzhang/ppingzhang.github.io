@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>CVPR 2024/2023</autocolor></li>
-  <li><autocolor>ACM Multimedia 2024/2023</autocolor></li>
+  <li><autocolor>ACM Multimedia 2024/2023/2022</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
