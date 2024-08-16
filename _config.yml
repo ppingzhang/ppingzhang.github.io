@@ -1,48 +1,34 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Zhang Pingping
+position: Ph.D. Candidate
+affiliation: City University of Hong Kong
+affiliation_link: https://www.cityu.edu.hk/
+affiliation_logo: ./assets/img/cityu_logo.png
+email: ppingyes (at) gmail.com
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zhang Pingping
+description: Zhang Pingpingi's personal blog
+canonical: https://ppingzhang.github.io/
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=GJJHMTUAAAAJ&hl=zh-CN
+github_link: https://github.com/ppingzhang
+orcid: https://orcid.org/my-orcid?orcid=0000-0003-4188-1572
+#linkedin: 
 
 # Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: /assets/img/avatar.jpg
+favicon: /assets/img/face.png
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# Footnote ("Powered by Jekyll and Minimal Light theme.")
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+font: "Serif"
 
 # The following files will be removed from the generated website.
 exclude:
