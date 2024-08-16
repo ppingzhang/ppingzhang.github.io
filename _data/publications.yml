@@ -15,15 +15,7 @@ main:
     conference: IEEE Transactions on Multimedia, (TMM) 2024.
     url: #https://arxiv.org/abs/2404.09458
     bibtex: #./assets/files/publications/comp_gs/bib_comp_gs.txt
-    image: ./assets/files/publications/comp_gs/comp_gs.jpg
-
-  - title: "Geometric Prior Based Deep Human Point Cloud Geometry Compression"
-    authors: Xinju Wu, <strong>Pingping Zhang</strong>, Meng Wang, Peilin Chen, Shiqi Wang, Sam Kwong.
-    conference_short: TCSVT
-    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
-    url: https://arxiv.org/pdf/2305.01309
-    bibtex: ./assets/files/publications/cppcgc_net/cppcgc_net.txt
-    image: ./assets/files/publications/cppcgc_net/cppcgc_net.png
+    image: ./assets/files/publications/HNR-ISC/HNR-ISC.png
 
   - title: "Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer"
     authors: <strong>Pingping Zhang</strong>, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong
