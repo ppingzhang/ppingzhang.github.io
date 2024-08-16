@@ -13,8 +13,8 @@ main:
     authors: <strong>Pingping Zhang</strong>, Shiqi Wang, Meng Wang, Peilin Chen, Wenhui Wu, Xu Wang, Sam Kwong
     conference_short: TMM
     conference: IEEE Transactions on Multimedia, (TMM) 2024.
-    url: #https://arxiv.org/abs/2404.09458
-    bibtex: #./assets/files/publications/comp_gs/bib_comp_gs.txt
+    url: ./assets/files/publications/HNR-ISC/HNR-ISC.pdf
+    bibtex: ./assets/files/publications/HNR-ISC/HNR-ISC.txt
     image: ./assets/files/publications/HNR-ISC/HNR-ISC.png
 
   - title: "Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer"
