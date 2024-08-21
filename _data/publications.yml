@@ -49,8 +49,8 @@ main:
     authors:  <strong>Pingping Zhang </strong>, Xu Wang, Lin Ma, Shiqi Wang, Sam Kwong, Jianmin Jiang
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2021.
-    url: ./assets/files/publications/SCMC/SCMC.pdf
+    url: ./assets/files/publications/PPU/PPU.pdf
     code: https://github.com/ppingzhang/PPU
-    bibtex: ./assets/files/publications/SCMC/SCMC.txt
-    image: ./assets/files/publications/SCMC/SCMC.png
+    bibtex: ./assets/files/publications/PPU/PPU.txt
+    image: ./assets/files/publications/PPU/PPU.png
   

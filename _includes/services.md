@@ -16,7 +16,15 @@
   <li><autocolor>APSIPA Transactions on Signal and Information Processing</autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Awards</h4>
+<h4 style="margin:0 10px 0;">Paper survey</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression"><autocolor>Video coding </autocolor></a></li>
+  <li><a href="https://github.com/ppingzhang/Deep-Learning-Based-Image-Compression"><autocolor>Image compression</autocolor></a></li>
+</ul>
+
+
+<h2 style="margin:0 10px 0;">Awards</h2>
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>Outstanding academic performance award, City University of Hong Kong, 2023 </autocolor></li>
