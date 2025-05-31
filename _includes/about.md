@@ -14,6 +14,7 @@
 <li><strong>AIGC:</strong> Multimodal representation learning, diffusion models</li> 
 <li><strong>LLM/LVLM/MLLMs:</strong> Inference acceleration, semantic-aware compression, AI agents</li> 
 <li><strong>Image Enhancement:</strong> Restoration and low-light image enhancement</li> 
+</ul> 
 
 <h2 id="news">News</h2>
 
