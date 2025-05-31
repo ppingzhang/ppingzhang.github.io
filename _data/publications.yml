@@ -1,4 +1,23 @@
 main:
+
+  - title: "Interpretable Optimization-Inspired Unfolding Network for Low-Light Image Enhancement"
+    authors: Wenhui Wu, Jian Weng, <strong>Pingping Zhang</strong>,  Wang, Xu and Yang, Wenhan and Jiang, Jianmin
+    conference_short: TPAMI
+    conference: TPAMI, 2025.
+    url: https://ieeexplore.ieee.org/document/10819641/?denied=
+    code: https://github.com/AndersonYong/URetinex-Net-PLUS
+    bibtex: ./assets/files/publications/URettinex-Net++/URettinex-Net++.txt
+    
+
+  - title: "Test-time adaptation for image compression with distribution regularization"
+    authors: Kecheng Chen, Pingping Zhang, Tiexin Qin, Shiqi Wang, Hong Yan, Haoliang Li
+    conference_short: ICLR
+    conference: ICLR 2025
+    url: https://arxiv.org/pdf/2410.12191
+    bibtex: ./assets/files/publications/tts/tts.txt
+    #image: ./assets/files/publications/comp_gs/comp_gs.jpg
+    
+
   - title: "CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting"
     authors: Xiangrui Liu, Xinju Wu, <strong>Pingping Zhang</strong>, Shiqi Wang, Zhu Li, Sam Kwong
     conference_short: ACM MM
@@ -6,7 +25,7 @@ main:
     url: https://arxiv.org/abs/2404.09458
     code: https://github.com/LiuXiangrui/CompGS
     bibtex: ./assets/files/publications/comp_gs/bib_comp_gs.txt
-    image: ./assets/files/publications/comp_gs/comp_gs.jpg
+    #image: ./assets/files/publications/comp_gs/comp_gs.jpg
     suppl: https://github.com/LiuXiangrui/CompGS/blob/main/assets/Suppl.pdf
 
   - title: "HNR-ISC: Hybrid Neural Representation for Image Set Compression"
@@ -15,7 +34,7 @@ main:
     conference: IEEE Transactions on Multimedia, (TMM) 2024.
     url: ./assets/files/publications/HNR-ISC/HNR-ISC.pdf
     bibtex: ./assets/files/publications/HNR-ISC/HNR-ISC.txt
-    image: ./assets/files/publications/HNR-ISC/HNR-ISC.png
+    #image: ./assets/files/publications/HNR-ISC/HNR-ISC.png
 
   - title: "Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer"
     authors: <strong>Pingping Zhang</strong>, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong
@@ -24,7 +43,7 @@ main:
     url: ./assets/files/publications/SCMC/SCMC.pdf
     code: https://github.com/ppingzhang/SCMC
     bibtex: ./assets/files/publications/SCMC/SCMC.txt
-    image: ./assets/files/publications/SCMC/SCMC.png
+    #image: ./assets/files/publications/SCMC/SCMC.png
 
 
   - title: "URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement"
@@ -34,7 +53,7 @@ main:
     url: ./assets/files/publications/URetinex-Net/URetinex-Net.pdf
     code: https://github.com/AndersonYong/URetinex-Net
     bibtex: ./assets/files/publications/URetinex-Net/URetinex-Net.txt
-    image: ./assets/files/publications/URetinex-Net/URetinex-Net.png
+    #image: ./assets/files/publications/URetinex-Net/URetinex-Net.png
 
   - title: "Learning-based Compression for Noisy Images in the Wild"
     authors: <strong>Pingping Zhang</strong>, Meng Wang, Baoliang Chen, Rongqun Lin, Xu Wang, Shiqi Wang and Sam Kwong
@@ -43,7 +62,7 @@ main:
     url: ./assets/files/publications/NoisyIC/NoisyIC.pdf
     code: https://github.com/ppingzhang/NoisyIC
     bibtex: ./assets/files/publications/NoisyIC/NoisyIC.txt
-    image: ./assets/files/publications/NoisyIC/NoisyIC.png
+    #image: ./assets/files/publications/NoisyIC/NoisyIC.png
 
   - title: "Progressive Point Cloud Upsampling via Differentiable Rendering"
     authors:  <strong>Pingping Zhang </strong>, Xu Wang, Lin Ma, Shiqi Wang, Sam Kwong, Jianmin Jiang
@@ -52,5 +71,5 @@ main:
     url: ./assets/files/publications/PPU/PPU.pdf
     code: https://github.com/ppingzhang/PPU
     bibtex: ./assets/files/publications/PPU/PPU.txt
-    image: ./assets/files/publications/PPU/PPU.png
+    #image: ./assets/files/publications/PPU/PPU.png
   

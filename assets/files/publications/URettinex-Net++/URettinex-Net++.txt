@@ -1,0 +1,7 @@
+@article{wu2025interpretable,
+  title={Interpretable Optimization-Inspired Unfolding Network for Low-Light Image Enhancement},
+  author={Wu, Wenhui and Weng, Jian and Zhang, Pingping and Wang, Xu and Yang, Wenhan and Jiang, Jianmin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}

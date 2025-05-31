@@ -1,0 +1,7 @@
+
+@article{chen2024test,
+  title={Test-time adaptation for image compression with distribution regularization},
+  author={Chen, Kecheng and Zhang, Pingping and Qin, Tiexin and Wang, Shiqi and Yan, Hong and Li, Haoliang},
+  journal={ICLR},
+  year={2025}
+}
