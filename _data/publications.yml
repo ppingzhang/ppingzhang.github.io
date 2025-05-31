@@ -2,7 +2,7 @@ main:
 
   - title: "Interpretable Optimization-Inspired Unfolding Network for Low-Light Image Enhancement"
     authors: Wenhui Wu, Jian Weng, <strong>Pingping Zhang</strong>,  Wang, Xu and Yang, Wenhan and Jiang, Jianmin
-    conference_short: TPAMI
+    #conference_short: TPAMI
     conference: TPAMI, 2025.
     url: https://ieeexplore.ieee.org/document/10819641/?denied=
     code: https://github.com/AndersonYong/URetinex-Net-PLUS
@@ -11,7 +11,7 @@ main:
 
   - title: "Test-time adaptation for image compression with distribution regularization"
     authors: Kecheng Chen, Pingping Zhang, Tiexin Qin, Shiqi Wang, Hong Yan, Haoliang Li
-    conference_short: ICLR
+    #conference_short: ICLR
     conference: ICLR 2025
     url: https://arxiv.org/pdf/2410.12191
     bibtex: ./assets/files/publications/tts/tts.txt
@@ -20,7 +20,7 @@ main:
 
   - title: "CompGS: Efficient 3D Scene Representation via Compressed Gaussian Splatting"
     authors: Xiangrui Liu, Xinju Wu, <strong>Pingping Zhang</strong>, Shiqi Wang, Zhu Li, Sam Kwong
-    conference_short: ACM MM
+    #conference_short: ACM MM
     conference: ACM Multimedia (ACM MM), 2024.
     url: https://arxiv.org/abs/2404.09458
     code: https://github.com/LiuXiangrui/CompGS
@@ -30,7 +30,7 @@ main:
 
   - title: "HNR-ISC: Hybrid Neural Representation for Image Set Compression"
     authors: <strong>Pingping Zhang</strong>, Shiqi Wang, Meng Wang, Peilin Chen, Wenhui Wu, Xu Wang, Sam Kwong
-    conference_short: TMM
+    #conference_short: TMM
     conference: IEEE Transactions on Multimedia, (TMM) 2024.
     url: ./assets/files/publications/HNR-ISC/HNR-ISC.pdf
     bibtex: ./assets/files/publications/HNR-ISC/HNR-ISC.txt
@@ -38,7 +38,7 @@ main:
 
   - title: "Rethinking Semantic Image Compression: Scalable Representation with Cross-modality Transfer"
     authors: <strong>Pingping Zhang</strong>, Shiqi Wang, Meng Wang, Jiguo Li, Xu Wang, Sam Kwong
-    conference_short: TCSVT
+    #conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023.
     url: ./assets/files/publications/SCMC/SCMC.pdf
     code: https://github.com/ppingzhang/SCMC
