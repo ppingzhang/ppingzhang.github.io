@@ -22,8 +22,8 @@
 <h4 style="margin:0 10px 0;">Paper survey</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression"  style="color: blue;"><autocolor>Video coding </autocolor></a></li>
-  <li><a href="https://github.com/ppingzhang/Deep-Learning-Based-Image-Compression"  style="color: blue;"><autocolor>Image compression</autocolor></a></li>
+  <li><a href="https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression" style="color: white; background-color: #ff6b6b; padding: 2px 5px; border-radius: 3px; text-decoration: none;">Video coding</a></li>
+  <li><a href="https://github.com/ppingzhang/Deep-Learning-Based-Image-Compression" style="color: white; background-color: #ff6b6b; padding: 2px 5px; border-radius: 3px; text-decoration: none;">Image compression</a></li>  
 </ul>
 
 
