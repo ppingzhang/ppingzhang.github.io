@@ -3,7 +3,7 @@
 <p>
     I received my Ph.D. degree in Computer Science from City University of Hong Kong in June 2025, under the supervision of <a href="https://scholar.google.com/citations?user=_PVI6EAAAAAJ&hl=zh-CN&oi=ao/">Prof. KWONG Tak Wu Sam</a> and <a href="https://scholar.google.com/citations?user=Pr7s2VUAAAAJ&hl=zh-CN&oi=ao">Prof. Shiqi Wang</a>. My research interests lie at the intersection of data compression, image and video processing, and emerging AI techniques including AIGC, LLMs and MLLMs. My recent work is dedicated to improving the efficiency and applicability of vision-language and multimodal large language models (LVLMs/MLLMs).
 
-    <p><strong><span style="color: red;">I am actively seeking cooperation and job opportunities in the fields of compression, AIGC, andLLMs. Please feel free to contact me for potential positions or collaborations.</span></strong></p>
+    <!-- <p><strong><span style="color: red;">I am actively seeking cooperation and job opportunities in the fields of compression, AIGC, andLLMs. Please feel free to contact me for potential positions or collaborations.</span></strong></p> -->
 
 </p>
 
