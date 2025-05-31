@@ -3,13 +3,16 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>CVPR 2024/2023</autocolor></li>
-  <li><autocolor>ACM Multimedia 2024/2023/2022</autocolor></li>
+  <li><autocolor>NeurIPS</autocolor></li>
+  <li><autocolor>ICCV</autocolor></li>
+  <li><autocolor>CVPR</autocolor></li>
+  <li><autocolor>ACM Multimedia</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><autocolor>IEEE Transactions on Image Processing </autocolor></li>
   <li><autocolor>IEEE Transactions on Neural Networks and Learning Systems </autocolor></li>
   <li><autocolor>IEEE Transactions on Multimedia</autocolor></li>
   <li><autocolor>IEEE Transactions on Circuits and Systems for Video Technology</autocolor></li>
